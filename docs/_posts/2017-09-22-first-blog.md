@@ -5,6 +5,6 @@ date: 2017-09-22 08:00:00 -0500
 ---
 
 
-# Testing first blog post
+Testing first blog post
 
 Please show content
