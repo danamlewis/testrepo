@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Testing first blog post
 date: 2017-09-22 08:00:00 -0500
 ---
