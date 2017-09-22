@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Testing first blog post
-date: 2017-09-22
-categories: Getting a clue
+date: 2017-09-22 08:00:00 -0500
 ---
 
 
